@@ -15,7 +15,7 @@
 ### 🌐 Let's Connect 
 
 
-  - A massive thanks to **Gabriela** for guiding me through the realms of Inteli. Check out their awesome projects [here](https://github.com/[YourFriendUsername])!
+  - A massive thanks to **Gabriela** for guiding me through the realms of Inteli. Check out their awesome projects [here](https://github.com/Gabisilva73)!
   > "I didn't chose for you to come along with me. It's just what's happening. As many things in this series. It's just what's happening".
 
 ## ⚠️ GAME OVER
