@@ -10,6 +10,12 @@
   > "Chess is a lot like life. You start out with a plan, and then everything falls apart".
 - 🛠 My goal it's to make a difference in Brazil's education system through technology;
   > "Stay in school, kids. It makes you better at pvp".
+   <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="SlayWithoutD GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=slaywithoutd&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  </details>
+
   
 
 ### 🌐 Let's Connect 
@@ -30,14 +36,6 @@
 
   - A massive thanks to **Gabriela** for guiding me through the realms of Inteli. Check out their awesome projects [here](https://github.com/Gabisilva73)!
   > "I didn't chose for you to come along with me. It's just what's happening. As many things in this series. It's just what's happening".
-
-<br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="SlayWithoutD GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=slaywithoutd&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  </details>
 
 <br />
 
