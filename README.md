@@ -7,33 +7,7 @@
 ### Initial Position
 ![Chess Board Initial](https://raw.githubusercontent.com/slaywithoutd/slaywithoutd/main/initialboard.png)
 
-- [Move e3](https://github.com/slaywithoutd/slaywithoutd/blob/main/e3board.png)
-
----
-
-### After 1. e3
-![Chess Board e3](https://raw.githubusercontent.com/slaywithoutd/slaywithoutd/main/e3board.png)
-
-- [Move e6](https://github.com/slaywithoutd/slaywithoutd/blob/main/e6board.png)
-
----
-
-### After 1... e6
-![Chess Board e6](https://raw.githubusercontent.com/slaywithoutd/slaywithoutd/main/e6board.png)
-
-- [Move e2](https://github.com/slaywithoutd/slaywithoutd/blob/main/ke2board.png)
-
----
-
-### After 2. e2
-![Chess Board e2](https://raw.githubusercontent.com/slaywithoutd/slaywithoutd/main/ke2board.png)
-
-- [Move e7](https://github.com/slaywithoutd/slaywithoutd/blob/main/ke7board.png)
-
----
-
-### After 2... e7
-![Chess Board e7](https://raw.githubusercontent.com/slaywithoutd/slaywithoutd/main/ke7board.png)
+- [Move e3](e3.md)
 
 <br />
 
