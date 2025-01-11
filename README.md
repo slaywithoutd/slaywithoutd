@@ -3,7 +3,7 @@
 - I'm **Maria Clara**, aka **SlayWithoutD**, a **Computer Science** student at **Inteli**, navigating the vast landscapes of technology. I'm here to code, create, and collaborate, building something awesome with every line of code. <br />
   -   DFTBA!
 
-### 🏹 A Little About Me
+## 🏹 A Little About Me
 - 🌌 Playing Minecraft, and specially messing around with Redstone it's what sparked my interest in coding;
   > "What's the point of logic if it doesn't make your life better in any way".
 - ♟️ I love playing chess since my childhood! Although I'm more passionate that skilled;
@@ -18,15 +18,9 @@
 
   
 
-### 🌐 Let's Connect 
+## 🌐 Let's Connect 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
