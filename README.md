@@ -2,6 +2,19 @@
 
 - I'm **Maria Clara**, aka **SlayWithoutD**, a **Computer Science** student at **Inteli**, navigating the vast landscapes of technology. I'm here to code, create, and collaborate, building something awesome with every line of code. <br />
   -   DFTBA!
+ 
+
+<h1 align="center">Hi 👋, I'm Davi Duarte</h1><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="250" align="right">
+
+<p align="center">
+  🌟 Transforming ideas into impactful projects. Exploring technology and gaming while building a brighter future for everyone. 🌟
+</p>
+
+### 👨‍💻 About Me
+- 🔍 **Started Coding:** At 11, I dove into programming mods for Minecraft. This led to creating open-source projects at [NextPlugins](https://github.com/nextplugins). 
+- 🚀 **Professional Growth:** After expanding my skill set at [Jungle](https://itsjungle.xyz), I am now embarking on an exciting academic journey at [Inteli](https://inteli.edu.br).  
+- 🎯 **Life Mission:** I am committed to leveraging technology to provide free education and opportunities for underprivileged communities.  
+- 📚 **Learning With:** My friend and mentor, [Thomaz Klifson](https://github.com/Thomaz-Klifson), an experienced Inteli veteran.  
 
 ## 🏹 A Little About Me
 - 🌌 Playing Minecraft, and specially messing around with Redstone it's what sparked my interest in coding;
@@ -15,18 +28,21 @@
 
   <img align="left" alt="SlayWithoutD GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=slaywithoutd&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   </details>
+  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/slaywithoutd/slaywithoutd/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
 
   
 
 ## 🌐 Let's Connect 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+<a href = "mailto:contato@catarina.arashiro@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Azzy#5930)
+<a href="https://instagram.com/cat.sayuriz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/Catarina-sayuri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   - A massive thanks to **Gabriela** for guiding me through the realms of Inteli. Check out their awesome projects [here](https://github.com/Gabisilva73)!
   > "I didn't chose for you to come along with me. It's just what's happening. As many things in this series. It's just what's happening".
