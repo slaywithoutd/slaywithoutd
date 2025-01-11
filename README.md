@@ -4,7 +4,7 @@
   -   DFTBA!
 
 ### 🏹 Random Facts About Me
-- 🌌 Playing Minecraft, and specially messing with Redstone it's what sparked my interest in coding;
+- 🌌 Playing Minecraft, and specially messing around with Redstone it's what sparked my interest in coding;
   > "What's the point of logic if it doesn't make your life better in any way".
 - ♟️ I love playing chess since my childhood! Although I'm more passionate that skilled;
   > "Chess is a lot like life. You start out with a plan, and then everything falls apart".
