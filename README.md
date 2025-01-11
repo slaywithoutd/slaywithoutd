@@ -12,13 +12,14 @@
   > "Stay in school, kids. It makes you better at pvp".
   
 
-### 🌐  Let's Connect 
+### 🌐 Let's Connect 
 
 
   - A massive thanks to **Gabriela** for guiding me through the realms of Inteli. Check out their awesome projects [here](https://github.com/[YourFriendUsername])!
   > "I didn't chose for you to come along with me. It's just what's happening. As many things in this series. It's just what's happening".
 
-## GAME OVER
+## ⚠️ GAME OVER
+** I'm still working on this page...**
 >You cannot give up just yet... <br />
 Hearth! <br />
 Stay determined...
