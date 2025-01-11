@@ -5,7 +5,7 @@
 ## Bongcloud Chess Opening ♟️
 
 ### Initial Position
-![Chess Board Initial](https://raw.githubusercontent.com/slaywithoutd/slaywithoutd/main/initialboard.png)
+<img src="https://raw.githubusercontent.com/slaywithoutd/slaywithoutd/main/initialboard.png" alt="Chess Board Initial" width="400"/>
 
 - [Move e3](e3.md)
 
