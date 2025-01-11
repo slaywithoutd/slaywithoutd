@@ -3,7 +3,7 @@
 - I'm **Maria Clara**, aka **SlayWithoutD**, a **Computer Science** student at **Inteli**, navigating the vast landscapes of technology. I'm here to code, create, and collaborate, building something awesome with every line of code. <br />
   -   DFTBA!
 
-### 🏹 Random Facts About Me
+### 🏹 A Little About Me
 - 🌌 Playing Minecraft, and specially messing around with Redstone it's what sparked my interest in coding;
   > "What's the point of logic if it doesn't make your life better in any way".
 - ♟️ I love playing chess since my childhood! Although I'm more passionate that skilled;
