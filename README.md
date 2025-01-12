@@ -13,21 +13,6 @@
 
 
 
-
-
-
-  <img align="left" alt="SlayWithoutD GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=slaywithoutd&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  </details>
-  
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/slaywithoutd/slaywithoutd/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-  
-
 ## 🌐 Let's Connect 
 <a href = "mailto:contato@catarina.arashiro@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Azzy#5930)
