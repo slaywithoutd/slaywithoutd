@@ -7,9 +7,13 @@
  <p align="center">
   — Play a move to read a little about me ✨️
 </p>
-<img src="https://raw.githubusercontent.com/slaywithoutd/slaywithoutd/main/initialboard.png" alt="Chess Board Initial" width="400"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/slaywithoutd/slaywithoutd/main/initialboard.png" alt="Chess Board Initial" width="500"/>
 
-- [Play e3](e3.md)
+<h3><a href="e3.md">Play e3</a></h3>
+</div>
+
+
 
 
 
