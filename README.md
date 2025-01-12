@@ -2,6 +2,9 @@
 <p align="center">
   I'm <b>Maria Clara</b>, aka <b>SlayWithoutD</b>, a <b>17yo</b> <b>Computer Science</b> student at <b>Inteli</b>, navigating the vast landscapes of technology. I'm here to code, create, and collaborate, building something awesome with every line of code.
 </p>
+<p align="center">
+  — You can learn more about me if you <a href="e3.md" target="_blank">play e3</a>!
+</p>
 
 ## How about a game of chess? ♟️
  <p align="center">
