@@ -3,7 +3,7 @@
   I'm <b>Maria Clara</b>, aka <b>SlayWithoutD</b>, a <b>17yo</b> <b>Computer Science</b> student at <b>Inteli</b>, navigating the vast landscapes of technology. I'm here to code, create, and collaborate, building something awesome with every line of code.
 </p>
 
-## How about learn a little about me in a game of chess? ♟️
+## How about a game of chess? ♟️
  <p align="center">
   — Play a move to read a little about me ✨️
 </p>
@@ -14,12 +14,5 @@
 
 
 
-<br />
-
-## ⚠️ GAME OVER
-** I'm still working on this page...**
->You cannot give up just yet... <br />
-Hearth! <br />
-Stay determined...
 
 
