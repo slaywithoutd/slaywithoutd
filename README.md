@@ -20,7 +20,7 @@
 - 🎓 *Computer Science* student at @*Inteli*
 - 📚 I'm part of *Instituto Ponte*, an educational NGO
 - 💻 Skilled in *Python* and *HTML*
-- 🚀 Currently focused on *getting my degree*
+- 🚀 Currently focused on *deepening my computer knowledge*
 - ✈️ Fluent in *Portuguese* and *English*, + learning *German* and *LIBRAS*
 - 📫 Reach me via <a href="marry090907@gmail.com" target="_blank"><b>email</b></a> or my socials.
 
