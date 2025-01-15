@@ -16,7 +16,7 @@
 
 
 
-- ## ⚡️ TL;DR 
+- ## ⚡️ TL;DR? Here's a quick recap of my profile:
 - 🎓 *Computer Science* student at @*Inteli*
 - 📚 I'm part of *Instituto Ponte*, an educational NGO
 - 💻 Skilled in *Python* and *HTML*
