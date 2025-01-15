@@ -1,6 +1,6 @@
 # Glad you stumbled upon this corner of the internet! 📡
 <p align="center">
-  I'm <b>Maria Clara</b>, aka <b>SlayWithoutD</b>, a <b>17yo</b> <b>Computer Science</b> student at <b>Inteli</b>, navigating the vast landscapes of technology. 
+  I'm <b>Maria Clara</b>, aka <b>SlayWithoutD</b>, a <b>17yo</b> <b>Computer Science</b> student at <b>Inteli</b>, navigating the vast landscapes of technology.
 </p>
 
 ## ⚡️ Overview of my profile:
