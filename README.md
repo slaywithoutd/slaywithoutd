@@ -5,7 +5,8 @@
 
 ## How about a game of chess? ♟️
  <p align="center">
-  — Play a move to read a little more about me ✨️
+   Let's go through a quick Chess Opening; <br>
+   Each move will lead you to a different page where you can read a little more about me ✨️
 </p>
 <div align="center">
 <img src="https://raw.githubusercontent.com/slaywithoutd/slaywithoutd/main/initialboard.png" alt="Chess Board Initial" width="500"/>
