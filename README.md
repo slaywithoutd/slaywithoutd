@@ -22,16 +22,10 @@
 </div>
 
 
-### If you'd like to dive deeper into any section, feel free to explore the pages linked below:
+》 If you'd like to dive deeper into any section, feel free to explore the pages linked below: 
 
 - [About Me - *e3*](e3.md)
 - [My Projects - *e6*](e6.md)
 - [My Socials - *Ke2*](e2.md)
 - [Final Thoughts - *Ke7*](e7.md)
-
-
-
-
-
-
 
