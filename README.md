@@ -1,11 +1,8 @@
 # Glad you stumbled upon this corner of the internet! 📡
 <p align="center">
-  I'm <b>Maria Clara</b>, aka <b>SlayWithoutD</b>, a <b>17yo</b> <b>Computer Science</b> student at <b>Inteli</b>, navigating the vast landscapes of technology.
+  I'm <b>Maria Clara</b>, aka <b>SlayWithoutD</b>, a <b>18yo</b> <b>Computer Science</b> student at <b>Inteli</b>, navigating the vast landscapes of technology.
 </p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/slaywithoutd/count.svg?"  />
-</div>
 
 ## 👩🏻‍💻 A few facts about me — DFTBA
 - 🌌 Playing Minecraft, and specially messing around with Redstone it's what sparked my interest in coding. Around age 10, I joined a robotics course that taught coding basics through games, where I also learned to work with Arduinos;
